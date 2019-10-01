@@ -1,0 +1,19 @@
+body {
+    font-style: italic;
+    text-align: center;
+    color: blue;
+    background-color: black;
+}
+
+.god {
+    font-style: inherit;
+    font-size: 125%;
+    color: red;
+}
+
+#scary {
+    image-rendering: auto;
+    height: 400px;
+    width: 600px;
+    align-content: center;
+}
