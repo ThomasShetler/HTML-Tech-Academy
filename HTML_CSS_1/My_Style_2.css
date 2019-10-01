@@ -1,7 +1,7 @@
 body {
     font-style: italic;
     text-align: center;
-    color: blue;
+    color: rgb(22, 152, 185);
     background-color: black;
 }
 
@@ -9,6 +9,8 @@ body {
     font-style: inherit;
     font-size: 125%;
     color: red;
+    background-color: black
+    /* the dark overload has spoken in this text */
 }
 
 #scary {
