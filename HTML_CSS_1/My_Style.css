@@ -1,0 +1,21 @@
+#pl {
+    color: red;
+    text-align: right;
+}
+
+.font_1 {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.font_2 {
+    background-color: green;
+    text-align: right;
+}
+
+.The_Aasum_Style {
+    background-color: crimson;
+    color: white;
+    text-decoration: underline;
+    text-decoration: initial;
+}
