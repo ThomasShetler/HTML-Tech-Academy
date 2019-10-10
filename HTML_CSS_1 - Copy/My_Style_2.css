@@ -1,0 +1,31 @@
+body {
+    font-style: italic;
+    text-align: center;
+    color: white;
+    background-color: black;
+    text-shadow: 0 0 5px white, 0 0 10px #fff, 0 0 20px blue, 0 0 30px rgb(80, 70, 223), 0 0 40px rgb(136, 113, 241), 0 0 50px rgb(146, 115, 221), 0 0 55px #ce77e4, 0 0 75px #bc8cc0;
+}
+
+#god {
+    font-style: inherit;
+    font-size: 125%;
+    color: red;
+    background-color: black
+    /* the dark overload has spoken in this text */
+}
+
+#scary {
+    image-rendering: auto;
+    height: 400px;
+    width: 600px;
+    align-content: center;
+}
+
+.god {
+    color: #FFFFFF;
+    font-size: 125%;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    color: #FFFFFF;
+    background: black;
+    font-style: italic;
+}

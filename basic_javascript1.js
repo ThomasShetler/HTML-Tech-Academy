@@ -3,3 +3,7 @@ function myFirstFunction() {
     var result = String.fontcolor("green");
     document.getElementById("obama").innerHTML = result;
 }
+var postive = 1;
+var negative = 3;
+
+function
